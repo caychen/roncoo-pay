@@ -109,9 +109,7 @@ roncoo-pay //龙果支付
 
 ---------
 
-在线支付演示：http://demo.pay.roncoo.com
-
-后台运营管理：http://demo.pay.roncoo.com/boss
+在线演示（后台管理）：http://demo.pay.roncoo.com/boss
 
 系统操作说明：https://blog.roncoo.com/article/124375
 
@@ -119,10 +117,10 @@ roncoo-pay //龙果支付
 
 系统搭建部署：https://blog.roncoo.com/article/124511
 
-###### 欢迎加群
-QQ2群：597865269   
+如需服务器部署龙果支付系统进行研究学习，可加微信(18302045627)申请获取由【[IT云 www.doityun.com](https://www.doityun.com/)】免费提供的1台2核CPU、8G内存、20G磁盘的学习专用云服务器，免费使用时长为1个月。
 
-QQ1群：287684257(已满) 
+###### 欢迎加群
+QQ群：604128060   
 
 欢迎加群，共同探讨互联网支付行业的技术经验！
 
